@@ -1,0 +1,8 @@
+{
+  "name": "Cuentas Claras",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite",
+  "id": "62c969ac"
+}
